@@ -1,1 +1,2 @@
-# Study_Blockchain1_add-game
+# addition-game-starter
+Klaytn javascript native boilerplate
